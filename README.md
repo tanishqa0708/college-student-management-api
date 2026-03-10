@@ -39,3 +39,14 @@ POST /api/students/
 GET /api/students/{id}/  
 PUT /api/students/{id}/  
 DELETE /api/students/{id}/
+
+## Screenshots
+
+### Student API Endpoint
+![Student API](screenshots/api_students.png)
+
+### Postman API Test
+![Postman Test](screenshots/postman_test.png)
+
+### Django Admin Panel
+![Admin Panel](screenshots/admin_panel.png)
