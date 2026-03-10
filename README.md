@@ -1,4 +1,4 @@
-# This is the README file: College Student Management API!!
+# College Student Management API!!
 
 This project is a backend system built using Django and Django REST Framework to manage college and student data.
 
