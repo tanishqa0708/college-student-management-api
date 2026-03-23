@@ -50,3 +50,6 @@ DELETE /api/students/{id}/
 
 ### Django Admin Panel
 ![Admin Panel](screenshots/admin_panel.png)
+
+### 🔹 Update Student (PATCH)
+![Update Student](screenshots/updated_students.png)
